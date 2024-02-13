@@ -59,7 +59,7 @@ header nav a.actif {
 
 header nav a:hover {
     border-bottom: 3px solid #151515;
-    background-color: #eeeeee;
+    background-color: #666666;
 }
 
 /********** STYLE CONTENU PRINCIPAL *********/
