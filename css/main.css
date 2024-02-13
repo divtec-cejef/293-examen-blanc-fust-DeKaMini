@@ -73,6 +73,7 @@ main {
 
 
 .produits {
+    border: #151515;
     list-style-type: none;
     padding: 0;
 }
