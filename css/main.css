@@ -75,13 +75,11 @@ main {
 .produits {
     display: flex;
     flex-direction: row;
-    flex-grow: 2;
     list-style-type: none;
     padding: 0;
 }
 
 .produits li {
-    display: inline-block;
     flex-grow: 2;
     padding: 2% 1rem;
     transition: all 0.2s ease-in-out;
