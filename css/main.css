@@ -73,8 +73,9 @@ main {
 
 
 .produits {
-    display: block;
+    display: inline-flex;
     flex-direction: row;
+    flex-grow: 2;
     list-style-type: none;
     padding: 0;
 }
