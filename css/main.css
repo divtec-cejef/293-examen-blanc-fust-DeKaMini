@@ -73,7 +73,7 @@ main {
 
 
 .produits {
-    display: inline-block;
+    display: block;
     flex-direction: row;
     list-style-type: none;
     padding: 0;
