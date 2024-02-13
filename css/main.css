@@ -70,12 +70,16 @@ main {
 }
 
 /********** PAGE NOS PRODUITS *********/
+
+
 .produits {
+    display: flex;
     list-style-type: none;
     padding: 0;
 }
 
 .produits li {
+    flex-grow: 2;
     padding: 2% 1rem;
     transition: all 0.2s ease-in-out;
 }
