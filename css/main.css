@@ -74,6 +74,7 @@ main {
 
 .produits {
     display: flex;
+
     list-style-type: none;
     padding: 0;
 }
@@ -95,6 +96,7 @@ main {
 }
 
 .produits figcaption {
+    flex-grow: 2;
     font-size: 1.2rem;
     line-height: 2;
 }
