@@ -73,7 +73,6 @@ main {
 
 
 .produits {
-    border: #151515;
     list-style-type: none;
     padding: 0;
 }
@@ -90,6 +89,8 @@ main {
 }
 
 .produits figure {
+
+    border-color: #151515;
     text-align: center;
     margin: 0;
     padding: 1.5rem .75rem;
