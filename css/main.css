@@ -89,8 +89,8 @@ main {
 }
 
 .produits figure {
-
-    border: 2px #151515;
+    border: 2px solid;
+    color: #151515;
     text-align: center;
     margin: 0;
     padding: 1.5rem .75rem;
